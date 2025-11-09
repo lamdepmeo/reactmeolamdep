@@ -1,0 +1,5 @@
+{
+  "name": "Meo Lam Dep Blog Frontend",
+  "description": "A fast, modern, and elegant blog frontend built with React and Tailwind CSS, powered by a WordPress backend. It features a featured posts slider, an infinite-scroll article feed, and a clean, responsive design.",
+  "requestFramePermissions": []
+}
